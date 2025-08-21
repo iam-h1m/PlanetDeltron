@@ -1,6 +1,6 @@
 # Planet Deltron - Unity 3D Endless Runner Game
 
-A dynamic 3D endless runner game built with Unity where players navigate through procedurally generated paths on an alien planet, avoiding obstacles and collecting points while the game progressively increases in difficulty.
+A dynamic 3D endless runner game built with Unity where players navigate through procedurally generated paths on an alien planet, avoiding obstacles and collecting points while the game progressively increases in difficulty. Click here to play -> https://akosbujdi.github.io/PlanetDeltron/
 
 ## 🎮 Game Overview
 
